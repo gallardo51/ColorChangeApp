@@ -60,8 +60,8 @@
 				BA9B625E2AE3D8D0009E3177 /* SceneDelegate.swift */,
 				BA9B62602AE3D8D0009E3177 /* ViewController.swift */,
 				BA9B62622AE3D8D0009E3177 /* Main.storyboard */,
-				BA9B62652AE3D8D1009E3177 /* Assets.xcassets */,
 				BA9B62672AE3D8D1009E3177 /* LaunchScreen.storyboard */,
+				BA9B62652AE3D8D1009E3177 /* Assets.xcassets */,
 				BA9B626A2AE3D8D1009E3177 /* Info.plist */,
 			);
 			path = ColorChangeApp;
