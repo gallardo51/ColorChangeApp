@@ -79,7 +79,7 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="Xmg-J8-FAF">
                                 <rect key="frame" x="133" y="316" width="250" height="130"/>
                                 <subviews>
-                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="8b2-Sg-vf6">
+                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.20000000000000001" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="8b2-Sg-vf6">
                                         <rect key="frame" x="-2" y="0.0" width="254" height="31"/>
                                         <color key="minimumTrackTintColor" systemColor="systemPinkColor"/>
                                         <connections>
@@ -93,7 +93,7 @@
                                             <action selector="changeColorSliderAction:" destination="BYZ-38-t0r" eventType="valueChanged" id="Oam-C5-t4D"/>
                                         </connections>
                                     </slider>
-                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="Wgk-ee-3lm">
+                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.69999999999999996" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="Wgk-ee-3lm">
                                         <rect key="frame" x="-2" y="100" width="254" height="31"/>
                                         <connections>
                                             <action selector="changeColorSliderAction:" destination="BYZ-38-t0r" eventType="valueChanged" id="O2g-3L-nK4"/>
